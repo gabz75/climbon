@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# git clone https://github.com/gabz75/climbon-router
+git clone https://github.com/gabz75/climbon-auth
+git clone https://github.com/gabz75/climbon-account
+# git clone https://github.com/gabz75/climbon-match-making
+# git clone https://github.com/gabz75/climbon-messaging

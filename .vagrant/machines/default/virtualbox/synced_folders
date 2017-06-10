@@ -1,0 +1,1 @@
+{"nfs":{"/climbon":{"type":"nfs","guestpath":"/climbon","hostpath":"/Users/gabe/workspace/climbon","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"3058892163"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/gabe/workspace/climbon","disabled":false,"__vagrantfile":true}}}
